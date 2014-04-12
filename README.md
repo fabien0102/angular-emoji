@@ -22,5 +22,9 @@ or
 </div>
 ```
 
+## Tools
+
+`npm run css-generator` Generate css file.
+
 ## Licence
 MIT

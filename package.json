@@ -1,0 +1,25 @@
+{
+  "name": "angular-emoji",
+  "version": "0.0.1",
+  "description": "Bower Component for a simple AngularJS Emoji directive.",
+  "main": "angular-emoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css-generator": "node tools/css-generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fabien0102/angular-emoji.git"
+  },
+  "keywords": [
+    "angular",
+    "emoji",
+    "directive"
+  ],
+  "author": "fabien0102",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabien0102/angular-emoji/issues"
+  },
+  "homepage": "https://github.com/fabien0102/angular-emoji"
+}
