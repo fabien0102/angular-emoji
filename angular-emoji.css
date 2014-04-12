@@ -1,0 +1,1968 @@
+.emoji--+1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/+1.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji---1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/-1.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--100 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/100.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--109 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/109.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--1234 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/1234.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--8ball {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/8ball.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--a {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/a.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ab {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ab.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--abc {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/abc.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--abcd {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/abcd.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--alien {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/alien.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--angel {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/angel.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--anger {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/anger.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--angry {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/angry.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ant {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ant.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--apple {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/apple.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--aries {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/aries.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--art {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/art.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--atm {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/atm.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--b {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/b.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--baby {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/baby.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bank {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bank.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bath {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bath.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bear {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bear.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bee {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bee.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--beer {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/beer.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--beers {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/beers.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bell {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bell.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bento {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bento.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bike {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bike.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bird {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bird.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--blush {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/blush.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--boar {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/boar.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--boat {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/boat.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bomb {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bomb.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--book {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/book.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--books {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/books.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--boom {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/boom.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--boot {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/boot.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bow {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bow.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--boy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/boy.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bread {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bread.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bug {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bug.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bulb {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bulb.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--bus {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/bus.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cake {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cake.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--camel {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/camel.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--candy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/candy.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--car {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/car.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cat {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cat.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cat2 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cat2.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cd {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cd.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--chart {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/chart.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cl {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cl.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--clap {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/clap.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cloud {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cloud.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--clubs {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/clubs.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cn {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cn.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cool {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cool.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cop {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cop.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--corn {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/corn.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cow {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cow.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cow2 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cow2.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--crown {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/crown.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cry {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cry.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--cupid {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/cupid.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--curry {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/curry.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dango {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dango.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dart {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dart.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dash {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dash.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--date {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/date.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--de {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/de.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dizzy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dizzy.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dog {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dog.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dog2 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dog2.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dolls {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dolls.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--donut {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/donut.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--door {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/door.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dress {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dress.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--dvd {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/dvd.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ear {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ear.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--egg {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/egg.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--eight {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/eight.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--email {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/email.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--end {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/end.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--es {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/es.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--euro {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/euro.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--eyes {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/eyes.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--fax {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/fax.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--feet {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/feet.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--fire {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/fire.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--fish {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/fish.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--fist {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/fist.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--five {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/five.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--flags {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/flags.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--foggy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/foggy.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--four {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/four.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--fr {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/fr.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--free {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/free.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--fries {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/fries.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--frog {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/frog.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--fu {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/fu.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--gb {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/gb.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--gem {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/gem.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ghost {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ghost.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--gift {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/gift.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--girl {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/girl.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--goat {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/goat.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--golf {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/golf.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--grin {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/grin.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--gun {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/gun.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--hand {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/hand.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--hash {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/hash.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--heart {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/heart.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--herb {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/herb.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--hocho {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/hocho.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--horse {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/horse.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--hotel {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/hotel.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--house {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/house.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--id {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/id.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--imp {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/imp.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--it {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/it.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--japan {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/japan.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--jeans {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/jeans.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--joy {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/joy.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--jp {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/jp.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--key {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/key.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--kiss {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/kiss.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--koala {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/koala.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--koko {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/koko.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--kr {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/kr.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--lemon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/lemon.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--leo {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/leo.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--libra {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/libra.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--link {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/link.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--lips {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/lips.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--lock {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/lock.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--loop {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/loop.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--m {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/m.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--mag {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/mag.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--man {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/man.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--mask {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/mask.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--mega {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/mega.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--melon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/melon.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--memo {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/memo.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--mens {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/mens.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--metal {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/metal.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--metro {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/metro.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--moon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/moon.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--mouse {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/mouse.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--moyai {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/moyai.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--mute {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/mute.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--new {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/new.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ng {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ng.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--nine {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/nine.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--nose {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/nose.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--notes {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/notes.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--o {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/o.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--o2 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/o2.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ocean {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ocean.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--oden {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/oden.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ok {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ok.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--on {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/on.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--one {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/one.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ox {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ox.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pager {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pager.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--peach {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/peach.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pear {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pear.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--phone {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/phone.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pig {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pig.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pig2 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pig2.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pill {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pill.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pizza {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pizza.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--plus1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/plus1.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--poop {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/poop.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pouch {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pouch.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pound {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pound.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--pray {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/pray.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--punch {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/punch.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--purse {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/purse.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--radio {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/radio.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rage {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rage.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rage1 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rage1.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rage2 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rage2.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rage3 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rage3.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rage4 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rage4.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ram {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ram.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ramen {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ramen.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rat {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rat.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rice {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rice.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ring {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ring.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--rose {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/rose.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ru {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ru.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sa {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sa.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sake {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sake.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--santa {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/santa.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--seat {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/seat.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--seven {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/seven.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sheep {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sheep.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--shell {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/shell.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ship {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ship.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--shirt {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/shirt.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--shit {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/shit.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--shoe {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/shoe.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--six {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/six.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--ski {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/ski.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--skull {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/skull.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--smile {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/smile.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--smirk {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/smirk.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--snail {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/snail.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--snake {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/snake.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sob {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sob.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--soon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/soon.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sos {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sos.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sound {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sound.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--star {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/star.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--star2 {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/star2.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--stars {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/stars.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--stew {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/stew.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sunny {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sunny.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--sushi {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/sushi.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--tada {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/tada.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--taxi {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/taxi.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--tea {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/tea.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--tent {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/tent.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--tm {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/tm.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--top {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/top.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--tram {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/tram.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--tv {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/tv.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--two {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/two.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--uk {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/uk.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--up {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/up.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--us {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/us.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--v {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/v.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--vhs {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/vhs.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--vs {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/vs.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--wave {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/wave.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--wc {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/wc.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--wink {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/wink.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--wolf {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/wolf.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--x {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/x.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--yen {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/yen.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--yum {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/yum.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--zap {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/zap.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--zero {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/zero.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}
+.emoji--zzz {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("bower_components/images/zzz.png");
+    background-size: 24px 24px;
+    color: rgba(0, 0, 0, 0);
+}

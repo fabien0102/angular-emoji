@@ -2,7 +2,8 @@ var Fs = require( "fs" );
 var images = Fs.readdirSync( "images" );
 var template = Fs.readFileSync( "tools/template.less" ).toString();
 var size = "24px";
-var image, emojiName, temp, output;
+var image, emojiName, temp;
+var output = "";
 
 for ( var i = 0; i < images.length; i++ ) {
   image = images[i];
