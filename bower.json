@@ -1,0 +1,16 @@
+{
+  "name": "angular-emoji",
+  "main": "angular-emoji.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fabien0102/angular-emoji",
+  "authors": [
+    "fabien0102 <fabien0102@planee.fr>"
+  ],
+  "description": "AngularJS Emoji directive",
+  "keywords": [
+    "angular",
+    "emoji",
+    "directive"
+  ],
+  "license": "MIT"
+}
