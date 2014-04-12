@@ -1,6 +1,6 @@
 {
   "name": "angular-emoji",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bower Component for a simple AngularJS Emoji directive.",
   "main": "angular-emoji.js",
   "scripts": {
