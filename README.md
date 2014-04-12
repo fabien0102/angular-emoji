@@ -22,6 +22,12 @@ or
 </div>
 ```
 
+with data binding
+
+```html
+<div data-emoji="post"></div>
+```
+
 ## Tools
 
 `npm run css-generator` Generate css file.
